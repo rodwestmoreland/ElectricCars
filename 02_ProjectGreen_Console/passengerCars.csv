@@ -1,0 +1,164 @@
+Id,Make,Model,Propulsion,Collision,Comprehensive,Personal injury
+1,Nissan,Leaf electric,electric,0.13,-0.22,-0.24
+2,Chevrolet,Bolt electric,electric,-0.33,-0.43,-0.34
+3,Chevrolet,Volt electric,electric,-0.09,-0.34,-0.36
+4,Tesla,Model 3 electric 4dr 4WD,electric,0.72,0.23,-0.4
+5,Tesla,Model 3 electric 4dr,electric,0.51,0.23,-0.42
+6,Tesla,Model S 4dr electric 4WD,electric,1.53,0.6,-0.43
+7,Kia,Optima hybrid,hybrid,0.44,0.06,0.63
+8,Ford,Fusion hybrid,hybrid,0.29,-0.04,0.42
+9,Honda,Insight hybrid,hybrid,0.05,0.02,0.18
+10,Hyundai,Sonata hybrid,hybrid,0.42,0.19,0.17
+11,Hyundai,Ioniq hybrid,hybrid,0.32,0.3,0.11
+12,Toyota,Prius c hybrid,hybrid,0.02,-0.12,0.06
+13,Toyota,Prius hybrid,hybrid,0.17,0.32,0.04
+14,Ford,Fusion plug-in hybrid,hybrid,0.22,-0.08,0.04
+15,Toyota,Camry hybrid,hybrid,0.31,0.41,0.03
+16,Honda,Accord hybrid,hybrid,0.02,0.3,-0.06
+17,Honda,Clarity plug-in hybrid,hybrid,0.29,0.38,-0.08
+18,Lincoln,MKZ hybrid 4dr,hybrid,0.48,-0.07,-0.1
+19,Toyota,Prius Prime plug-in hybrid,hybrid,0.23,0.51,-0.25
+20,Nissan,Versa,thermal,0.1,-0.16,1.08
+21,Kia,Forte,thermal,0.18,-0.03,0.96
+22,Chevrolet,Sonic,thermal,0.06,-0.24,0.93
+23,Nissan,Sentra,thermal,0.24,-0.21,0.82
+24,Nissan,Altima,thermal,0.42,0.48,0.69
+25,Hyundai,Elantra,thermal,0.27,-0.05,0.67
+26,Kia,Optima,thermal,0.19,-0.05,0.59
+27,Toyota,Corolla,thermal,0.15,-0.14,0.59
+28,Nissan,Versa Note,thermal,0.02,-0.31,0.59
+29,Chevrolet,Malibu,thermal,0.19,0.01,0.58
+30,Chevrolet,Cruze,thermal,0.15,-0.06,0.55
+31,Nissan,Maxima,thermal,0.4,0.42,0.53
+32,Hyundai,Sonata,thermal,0.23,-0.06,0.52
+33,Honda,Civic,thermal,0.08,-0.14,0.42
+34,Nissan,Altima 4WD,thermal,0.42,0.37,0.41
+35,Kia,Soul,thermal,-0.13,-0.3,0.4
+36,Nissan,Kicks,thermal,0.09,-0.23,0.39
+37,Toyota,Camry,thermal,0.12,0.29,0.37
+38,Honda,Accord,thermal,0.01,0.39,0.33
+39,Cadillac,XTS 4dr,thermal,0.2,0.05,0.33
+40,Toyota,86,thermal,0.78,0.26,0.29
+41,Chevrolet,Camaro 2dr,thermal,0.64,0.24,0.27
+42,Ford,Mustang 2dr,thermal,0.6,0.13,0.26
+43,Ford,Fusion,thermal,0.12,-0.04,0.26
+44,Honda,Civic,thermal,0.15,-0.14,0.26
+45,Infiniti,Q50 4dr 4WD,thermal,0.85,0.61,0.23
+46,Chevrolet,Sonic,thermal,-0.1,-0.27,0.22
+47,Honda,Civic Si,thermal,0.13,0.18,0.21
+48,Chevrolet,Cruze hatchback,thermal,0.01,-0.15,0.21
+49,Mercedes-Benz,CLA class 4dr 4WD,thermal,0.63,0.34,0.17
+50,Mercedes-Benz,CLA class 4dr,thermal,0.49,0.29,0.17
+51,Infiniti,Q60 2dr 4WD,thermal,1.05,1.35,0.16
+52,Mercedes-Benz,C class 4dr,thermal,0.48,0.27,0.16
+53,Nissan,370Z 2dr,thermal,0.84,0.13,0.16
+54,Acura,ILX,thermal,0.05,-0.25,0.16
+55,Honda,Civic hatchback,thermal,0.17,0.06,0.14
+56,Volkswagen,Passat,thermal,-0.1,-0.09,0.14
+57,Ford,Fiesta,thermal,-0.08,-0.34,0.13
+58,Infiniti,Q50 4dr,thermal,0.73,0.95,0.12
+59,Mercedes-Benz,C class 2dr 4WD,thermal,0.88,0.6,0.12
+60,Honda,Civic Si,thermal,0.24,0.12,0.12
+61,Toyota,Corolla hatchback,thermal,0.05,0.3,0.1
+62,Hyundai,Elantra GT,thermal,0.02,-0.11,0.1
+63,Volkswagen,Jetta,thermal,0.02,-0.18,0.09
+64,Lexus,IS 300 4dr 4WD,thermal,0.51,0.6,0.05
+65,Lexus,IS 300 4dr,thermal,0.52,0.45,0.05
+66,Jaguar,XE 4dr,thermal,0.79,0.3,0.05
+67,BMW,4 series 4dr 4WD,thermal,0.81,0.85,0.03
+68,Cadillac,CTS 4dr,thermal,0.35,0.23,0.03
+69,BMW,3 series 4dr,thermal,0.38,0.56,0.02
+70,Mazda,6,thermal,-0.03,-0.01,0.01
+71,Honda,Fit,thermal,-0.16,-0.35,0.01
+72,Infiniti,Q60 2dr,thermal,0.97,1.56,0
+73,Acura,TLX 4dr,thermal,0.03,-0.06,0
+74,Mercedes-Benz,C class 4dr 4WD,thermal,0.35,0.15,-0.01
+75,Chevrolet,Camaro convertible,thermal,0.18,0.03,-0.02
+76,Ford,Mustang convertible,thermal,0.13,-0.06,-0.02
+77,Mercedes-Benz,C class 2dr,thermal,0.71,0.58,-0.03
+78,BMW,4 series 2dr 4WD,thermal,0.7,0.52,-0.03
+79,Ford,Mustang GT 2dr,thermal,0.83,0.29,-0.04
+80,Subaru,BRZ,thermal,0.45,0.22,-0.04
+81,Lincoln,MKZ 4dr,thermal,0.14,-0.03,-0.05
+82,Lexus,ES 350 4dr,thermal,0.34,0.6,-0.06
+83,Subaru,Impreza 4WD,thermal,-0.11,0.01,-0.06
+84,Cadillac,CT6 4dr 4WD,thermal,0.48,0.13,-0.08
+85,Ford,Fusion 4WD,thermal,0.13,0.16,-0.09
+86,Mercedes-Benz,E class 4dr,thermal,0.68,0.95,-0.1
+87,BMW,3 series 4dr 4WD,thermal,0.4,0.63,-0.1
+88,Subaru,WRX 4WD,thermal,0.17,0.22,-0.1
+89,Honda,Civic Type-R hatchback,thermal,0.42,0.33,-0.11
+90,Lincoln,MKZ 4dr 4WD,thermal,0.29,0.06,-0.11
+91,Jaguar,XE 4dr 4WD,thermal,0.75,0.59,-0.12
+92,BMW,4 series 4dr,thermal,0.68,1.19,-0.13
+93,Volkswagen,Golf,thermal,-0.26,-0.18,-0.13
+94,Acura,TLX 4dr 4WD,thermal,0.11,0.13,-0.14
+95,BMW,5 series 4dr 4WD,thermal,0.8,0.89,-0.15
+96,Genesis,G80 4dr 2WD/4WD,thermal,0.51,0.56,-0.16
+97,Subaru,Legacy 4WD with EyeSight,thermal,-0.27,0.12,-0.17
+98,Audi,A3 4dr,thermal,0.2,0.08,-0.17
+99,Subaru,Impreza 4WD with EyeSight,thermal,-0.15,0,-0.17
+100,Maserati,Ghibli 4dr,thermal,1.97,2.3,-0.18
+101,Alfa,Romeo Giulia 4dr,thermal,0.64,0.72,-0.18
+102,Mercedes-Benz,E class 4dr 4WD,thermal,0.64,0.83,-0.2
+103,Volkswagen,New Beetle,thermal,-0.02,-0.24,-0.2
+104,Lexus,GS 350 4dr,thermal,0.45,0.62,-0.21
+105,Buick,Cascada convertible,thermal,-0.29,-0.32,-0.21
+106,Cadillac,CTS 4dr 4WD,thermal,0.17,-0.18,-0.24
+107,Mercedes-Benz,C class AMG 4dr 4WD,thermal,1.08,1.24,-0.25
+108,Mercedes-Benz,C class convertible,thermal,0.55,1.2,-0.25
+109,Audi,A5 2dr 4WD,thermal,0.55,0.54,-0.25
+110,Lexus,GS 350 4dr 4WD,thermal,0.56,0.52,-0.25
+111,Mini,Clubman,thermal,0.03,-0.08,-0.25
+112,BMW,4 series 2dr,thermal,0.58,0.84,-0.27
+113,Volkswagen,Golf,thermal,-0.23,-0.33,-0.27
+114,BMW,5 series 4dr,thermal,0.69,1.07,-0.28
+115,Alfa,Romeo Giulia 4dr 4WD,thermal,0.55,0.31,-0.28
+116,Audi,A4 4dr,thermal,0.33,0.15,-0.28
+117,Audi,A3 4dr 4WD,thermal,0.18,0.1,-0.28
+118,Volvo,S90 4dr LWB 4WD,thermal,0.29,0.61,-0.29
+119,Subaru,Impreza 4WD with EyeSight,thermal,-0.25,-0.01,-0.29
+120,Subaru,Impreza 4WD,thermal,-0.24,-0.05,-0.29
+121,Volkswagen,New Beetle convertible,thermal,-0.13,-0.12,-0.29
+122,Mini,Countryman,thermal,-0.19,-0.11,-0.3
+123,Lincoln,Continental 4dr,thermal,0.31,0.34,-0.31
+124,Subaru,Crosstrek 4WD,thermal,-0.36,-0.08,-0.31
+125,Mercedes-Benz,C class convertible 4WD,thermal,0.54,0.3,-0.32
+126,Mini,Clubman 4WD,thermal,0.01,0.04,-0.32
+127,Mercedes-Benz,S class 4dr LWB 4WD,thermal,1.37,4.3,-0.33
+128,BMW,7 series 4dr 4WD,thermal,1.5,3.47,-0.33
+129,Genesis,G90 4dr 2WD/4WD,thermal,0.8,0.95,-0.33
+130,Volkswagen,Golf 4WD,thermal,-0.22,-0.22,-0.33
+131,Subaru,Outback 4WD with EyeSight,thermal,-0.39,0.01,-0.34
+132,Chevrolet,Corvette 2dr,thermal,0.07,-0.03,-0.34
+133,Mercedes-Benz,E class AMG 4dr 4WD,thermal,1.07,1.9,-0.35
+134,Mini,Countryman 4WD,thermal,-0.07,0.05,-0.35
+135,Volkswagen,GTI,thermal,-0.03,-0.06,-0.35
+136,BMW,7 series 4dr,thermal,1.77,4,-0.36
+137,Audi,S4 4dr 4WD,thermal,0.84,0.66,-0.36
+138,Subaru,Crosstrek 4WD with EyeSight,thermal,-0.4,-0.06,-0.36
+139,Audi,S5 4dr 4WD hatchback,thermal,0.91,0.87,-0.37
+140,BMW,4 series convertible,thermal,0.37,0.96,-0.38
+141,Audi,A4 4dr 4WD,thermal,0.32,0.32,-0.38
+142,BMW,M550xi 4dr 4WD,thermal,1.19,2.52,-0.39
+143,Lincoln,Continental 4dr 4WD,thermal,0.43,0.47,-0.39
+144,Mazda,MX-5 Miata convertible,thermal,-0.17,-0.14,-0.39
+145,Chevrolet,Camaro ZL1 2dr,thermal,0.84,0.7,-0.4
+146,Maserati,Ghibli 4dr 4WD,thermal,1.71,1.57,-0.41
+147,Volkswagen,Golf Alltrack 4WD,thermal,-0.26,-0.1,-0.43
+148,Ford,Mustang GT convertible,thermal,0.11,-0.12,-0.43
+149,Mercedes-Benz,S class 4dr LWB,thermal,1.31,4.55,-0.44
+150,Volkswagen,Golf R 4WD,thermal,0.02,0.23,-0.46
+151,BMW,4 series convertible 4WD,thermal,0.32,0.76,-0.48
+152,Porsche,Panamera 4dr,thermal,1.34,2.18,-0.49
+153,Audi,A4 Allroad station wagon 4WD,thermal,0.27,0.43,-0.5
+154,Audi,A5 convertible 4WD,thermal,0.32,0.4,-0.51
+155,Audi,A5 4dr 4WD hatchback,thermal,0.48,0.48,-0.52
+156,Mercedes-Benz,SL class convertible,thermal,0.72,2.72,-0.61
+157,Porsche,Cayman 2dr,thermal,0.61,0.26,-0.61
+158,Chevrolet,Corvette Grand Sport 2dr,thermal,-0.07,-0.12,-0.61
+159,Chevrolet,Corvette Z06 2dr,thermal,0.49,0.06,-0.62
+160,Porsche,911 Carrera convertible,thermal,1.05,1.3,-0.68
+161,Porsche,911 Carrera 2dr,thermal,0.86,0.57,-0.69
+162,Ford,Mustang Shelby GT350 2dr,thermal,0.24,0.23,-0.71
+163,Fiat,124 convertible,thermal,-0.14,-0.08,-0.24
